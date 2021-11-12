@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Chiragsinh7796
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Chiragsinh 
+- 👀 I’m interested in computer language 
+- 🌱 I’m currently learning in computer science 
+- 💞️ I’m looking to collaborae on computer 
+- 📫 How to reach me with coding 
 
 <!---
 Chiragsinh7796/Chiragsinh7796 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
